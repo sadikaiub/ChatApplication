@@ -608,7 +608,7 @@ function IsImageFile(fileF) {
                     <!-- DIRECT CHAT PRIMARY -->
                     <div class="box box-primary direct-chat direct-chat-primary">
                         <div class="box-header with-border">
-                            <h3 class="box-title" style="color: dimgrey;">Welcome to Discussion Room <span id='spanUser'></span></h3>
+                            <h3 class="box-title" style="color: dimgrey;">Welcome to  Chat Room <span id='spanUser'></span></h3>
                             <div class="box-tools pull-right">
                                 <button type="button" class="btn btn-box-tool" id="btnClearChat" data-toggle="tooltip" title="Clear Chat">
                                     <i class="fa fa-trash-o"></i>
